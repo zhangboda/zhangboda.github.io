@@ -1,9 +1,9 @@
 # zhangboda.github.io
-#初学markdown
+# 初学markdown
 
 
 日期：2017-01-10
-##首先
+## 首先
 > 这里是引用啊
 
 
@@ -17,7 +17,7 @@
 * 列表3
   * 列表1
   
-##自我介绍
+## 自我介绍
   ```python
   def myname()
     print ("黑猫")
